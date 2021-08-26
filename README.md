@@ -1,4 +1,6 @@
-# Lulu Rules Basic List
+# ~~Lulu Rules Basic List~~
+
+Not work on Lulu 2
 
 This repo is used to share the basic rules for Lulu which is a modern powerful mac os firewall.
 
